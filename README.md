@@ -4,7 +4,7 @@
 Introduction
 ---
 
-This C++ program implements the <b>Tries</b> data structure to performs spells checkment of an input file fed to it. As well as this program corrects basic grammartical errors. 
+This project of C++ implements the <b>Trie</b> data structure to performs spell checking of an input file fed to it. As well as this program corrects basic grammatical errors.
 
 ---
 Features
@@ -12,9 +12,9 @@ Features
 
 - Here <b>dictionary.txt</b> file contains a huge word list.
 - New words can be added to dictionary.txt 
-- Missplled words are listed when a file is given to the program 
-- Auto corrects basic grammartical errors:
-> i. First character is capital letter of a sentence. <br> 
+- Misspelled words are listed when a file is given to the program 
+- Auto corrects basic grammatical errors:
+> i. The first character of a sentence is a capital letter <br> 
 > ii. Place a space after a punctuation etc. 
 
 ---
